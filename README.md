@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujshakya360&theme=tokyonight&area=true&hide_border=true" width="100%" />
 
 </div>
 ---
