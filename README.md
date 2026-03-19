@@ -41,6 +41,17 @@ I am a **Third-Year BIT Student** based in Kathmandu, Nepal, with a passion for 
 
 ---
 
+### 📈 Skill Proficiency 
+
+**Data Analysis**
+![Data Analysis](https://geps.dev/progress/85?dangerColor=0077b6&warningColor=00b4d8&successColor=48CAE4)
+
+**Brand Design**
+![Brand Design](https://geps.dev/progress/90?dangerColor=0077b6&warningColor=00b4d8&successColor=48CAE4)
+
+**Python/SQL**
+![Python/SQL](https://geps.dev/progress/75?dangerColor=0077b6&warningColor=00b4d8&successColor=48CAE4)
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
