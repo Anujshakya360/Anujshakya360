@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=120&section=header&text=WELCOME%20TO%20MY%20LAB&fontSize=50&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Anuj%20Shakya&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Extracting+Insights+from+Data;Crafting+Digital+Identities;Future+IT+Professional" alt="Typing SVG" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anujshakya360&theme=tokyonight&area=true&hide_border=true" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Data%20Analyst-333333?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-UI/UX%20Designer-333333?style=flat&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/-BIT%20Student-333333?style=flat&logo=bookstack&logoColor=white" />
+</p>
 
 </div>
 ---
