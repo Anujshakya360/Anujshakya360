@@ -28,13 +28,25 @@
 
 ### 🛠️ Tech Stack & Tools
 
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sql,tableau,git,github,vscode,figma,postman,latex,r" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,tableau,r,latex,postman" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" />
+  </a>
+</p>
 
 ### 🐍 The Contribution Snake
 <picture>
