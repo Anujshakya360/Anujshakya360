@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Hi,%20I'm%20Anuj%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=120&section=header&text=WELCOME%20TO%20MY%20LAB&fontSize=50&fontAlignY=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=48CAE4&center=true&vCenter=true&width=435&lines=IT+Student+%26+Data+Analyst;Building+Scalable+Solutions;Lifelong+Learner+%26+Builder;Turning+Data+into+Strategy" alt="Typing SVG" />
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20IT-0077b6?style=flat-square" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" width="100%" />
 
+</div>
 ---
 
 ### 🚀 My Digital Dashboard
