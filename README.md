@@ -16,10 +16,10 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-       <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+       <img src="https://github-readme-stats.vercel.app/api?username=Anujshakya360&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
     </td>
     <td width="50%" valign="top">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujshakya360&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -38,9 +38,9 @@
 
 ### 🐍 The Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anujshakya360/Anujshakya360/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anujshakya360/Anujshakya360/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anujshakya360/Anujshakya360/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
