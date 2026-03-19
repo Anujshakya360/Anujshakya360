@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0077b6&height=200&section=header&text=ANUJ%20SHAKYA&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0d17&height=250&section=header&text=ANUJ%20SHAKYA&fontSize=90&animation=twinkling&fontAlignY=40&desc=Exploring%20the%20Data%20Universe&descSize=20&descAlignY=60" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Extracting+Actionable+Insights;Mastering+Data+%26+Design;Future+MSc+Student+in+Germany" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+Cosmos!%22);Navigating+through+Big+Data;Crafting+Digital+Constellations;Future+MSc+Student+in+Germany" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-BIT%20Student-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-00b4d8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-German%20B2-0077b6?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explorer-Data%20Science-7B2CBF?style=for-the-badge&logo=nasa&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-BIT%20Student-3C096C?style=for-the-badge&logo=micro-dot-blog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission-Germany%202028-240046?style=for-the-badge&logo=spacex&logoColor=white" />
 </p>
 
+---
 </div>
 ---
 
