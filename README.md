@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Anuj%20Shakya&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=glass&color=0077b6&height=250&section=header&text=ANUJ%20SHAKYA&fontSize=90&animation=twinkling&fontAlignY=40" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Extracting+Insights+from+Data;Crafting+Digital+Identities;Future+IT+Professional" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Extracting+Actionable+Insights;Mastering+Data+%26+Design;Future+MSc+Student+in+Germany" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Data%20Analyst-333333?style=flat&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-UI/UX%20Designer-333333?style=flat&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/-BIT%20Student-333333?style=flat&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-BIT%20Student-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-00b4d8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-German%20B2-0077b6?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
+---
 </div>
 ---
 
