@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=glass&color=0077b6&height=250&section=header&text=ANUJ%20SHAKYA&fontSize=90&animation=twinkling&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0077b6&height=200&section=header&text=ANUJ%20SHAKYA&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <br/>
 
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Learning-German%20B2-0077b6?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
----
 </div>
 ---
 
