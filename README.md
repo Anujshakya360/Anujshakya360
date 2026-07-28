@@ -74,7 +74,7 @@ My journey revolves around creating complete digital solutions — from designin
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </a>
 </p>
 
@@ -83,7 +83,7 @@ My journey revolves around creating complete digital solutions — from designin
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" />
 </a>
 </p>
 
@@ -100,18 +100,18 @@ My journey revolves around creating complete digital solutions — from designin
 
 # 🌐 Projects
 
-### 🎬 Netflix Clone
+### Netflix Clone
 - Built with React and modern frontend technologies
 - Implemented responsive UI and reusable components
 - Focused on clean design and user experience
 
 
-### 🍎 Interactive Landing Page
+### Interactive Landing Page
 - Created animated web experience inspired by modern product websites
 - Used React, Next.js, Tailwind CSS and GSAP animations
 
 
-### 🚀 Full Stack Applications
+### Full Stack Applications
 Currently building projects involving:
 - Authentication systems
 - REST APIs
@@ -120,7 +120,7 @@ Currently building projects involving:
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced React Patterns
 - Next.js Architecture
